@@ -1,2 +1,6 @@
-@font-face {
-    
+.slasher-match{
+    text-align: center;
+    height: 100px;
+  width: 100%;
+  border: 5px solid red;
+}
